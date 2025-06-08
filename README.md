@@ -24,11 +24,11 @@ Follow these steps to get the project up and running on your local machine.
 
  Clone the repository
    ```bash
-   git clone https://github.com/ravikant-diwakar/react-admin-dashboard.git
+   git clone https://github.com/smruthik24/Admin-Dashboard.git
    ```
  Navigate to the project directory
    ```bash
-   cd react-admin-dashboard
+   cd Admin-Dashboard
    ```
  Install the dependencies
    ```bash
