@@ -71,4 +71,4 @@ Follow these steps to get the project up and running on your local machine.
 
 ---
 
-Enjoy using the React Admin Dashboard! 🚀
+Enjoy using the React Admin Dashboard!!
